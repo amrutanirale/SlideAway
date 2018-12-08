@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: b0b7dbd5a8b5ff347a475d31426833be
+timeCreated: 1476628335
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - WeblySleek UI
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7827e44040ec82a4ba828413d47b38da, type: 3}
+  - {fileID: 12800000, guid: 88c7887102350924291d7ef6fe896f30, type: 3}
+  - {fileID: 12800000, guid: 74e9e743a2ade274a9d3ed1244091b26, type: 3}
+  - {fileID: 12800000, guid: 2ebda0f3400cdac41abd44f38ea5ae25, type: 3}
+  - {fileID: 12800000, guid: 18c7957e679e9e84b9cb02ee4948626c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
